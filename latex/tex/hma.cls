@@ -225,12 +225,12 @@ autocite=inline,                % regelt Aussehen für \autocite
 %      inline: Zitat in Klammern (\parancite)
 %      footnote: Zitat in Fußnoten (\footcite)
 %      plain: Zitat direkt ohne Klammern (\cite)
-style=numeric,         		      % Legt den Stil für die Angabe im Literaturverzeichnis fest
+style=ieee,         		      % Legt den Stil für die Angabe im Literaturverzeichnis fest
 %      numeric: Quellen mit Zahlen [1]
 %      ieee: Quellen mit Zahlen [1], nach IEEE-Regeln
 %      alphabetic: Quellen als Kürzel und Jahr [Ein05]
 %      authoryear: Quellen Author und Jahr [Einstein (1905)]
-citestyle=numeric-comp,         % Legt den Stil für die Zitate im Text fest
+citestyle=ieee,         % Legt den Stil für die Zitate im Text fest
 %      numeric: Zitate mit Zahlen [1]
 %      numeric-comp: Kompakte Variante von numeric. [1, 2, 3] wird zu [1-3]
 %      ieee: Zitate mit Zahlen [1], nach IEEE-Regeln
